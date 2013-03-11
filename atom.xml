@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Eduardo Fiorezi]]></title>
+  <link href="http://eduardofiorezi.github.com/atom.xml" rel="self"/>
+  <link href="http://eduardofiorezi.github.com/"/>
+  <updated>2013-03-10T21:47:05-03:00</updated>
+  <id>http://eduardofiorezi.github.com/</id>
+  <author>
+    <name><![CDATA[Eduardo Fiorezi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
