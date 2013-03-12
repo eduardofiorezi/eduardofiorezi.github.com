@@ -4,11 +4,11 @@
   <title><![CDATA[Eduardo Fiorezi]]></title>
   <link href="http://eduardofiorezi.github.com/atom.xml" rel="self"/>
   <link href="http://eduardofiorezi.github.com/"/>
-  <updated>2013-03-11T18:36:55-03:00</updated>
+  <updated>2013-03-11T22:22:12-03:00</updated>
   <id>http://eduardofiorezi.github.com/</id>
   <author>
     <name><![CDATA[Eduardo Fiorezi]]></name>
-    
+    <email><![CDATA[eduardofiorezi@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 

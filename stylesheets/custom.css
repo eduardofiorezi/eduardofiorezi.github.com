@@ -1,0 +1,12 @@
+#about-me {
+  padding:40px;
+}
+#about-me p {
+ margin-bottom:15px; 
+}
+#about-me p:first-child{
+  font-size:35px;
+}
+.container .left-col {
+  opacity: .7;
+}
